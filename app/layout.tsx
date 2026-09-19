@@ -2,8 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Hardtron",
-  description: "Hardtron website",
+  title: "Hardtron | Industrial Automation Spare Parts",
+  description:
+    "FANUC and OKUMA automation spare parts, exchange and repair with local support in Europe.",
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
